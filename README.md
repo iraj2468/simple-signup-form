@@ -9,5 +9,5 @@ Easy to customize and extend for additional fields or validations.
 Usage:
 
 Clone the repository using: git clone https://github.com/iraj2468/simple-signup-form.git
-Open index.html in your web browser to view the form.
-Customize the form and styles according to your requirements.
+Open from.html in your web browser to view the form.
+
