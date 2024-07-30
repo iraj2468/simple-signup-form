@@ -8,6 +8,6 @@ Minimal CSS for styling and responsiveness.
 Easy to customize and extend for additional fields or validations.
 Usage:
 
-Clone the repository using: git clone https://github.com/your-username/SimpleSignUpForm.git
+Clone the repository using: git clone https://github.com/iraj2468/simple-signup-form.git
 Open index.html in your web browser to view the form.
 Customize the form and styles according to your requirements.
